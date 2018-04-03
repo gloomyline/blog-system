@@ -1,0 +1,7 @@
+{
+  "name": "blog-system",
+  "version": "1.0.0",
+  "description": "Alan's blog system.",
+  "main": "app.js",
+  "license": "MIT"
+}
